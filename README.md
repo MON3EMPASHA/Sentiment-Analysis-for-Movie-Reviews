@@ -150,30 +150,10 @@ Sentiment Analysis for IMDb Reviews/
 - **Negative words**: even, bad, terrible, disappointing, boring
 - Some words appear in both categories with different contexts
 
-## 🔮 Future Enhancements
-
-- [ ] Add more ML models (BERT, LSTM, etc.)
-- [ ] Implement model ensemble methods
-- [ ] Add sentiment intensity scoring
-- [ ] Include review rating prediction
-- [ ] Add model interpretability features
-- [ ] Implement batch processing for multiple reviews
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 👨‍💻 Author
 
-Created as part of a Natural Language Processing project for sentiment analysis.
+Created by Abdelmonem Hatem
 
 ## 🙏 Acknowledgments
 
