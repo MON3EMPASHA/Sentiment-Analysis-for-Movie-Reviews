@@ -1,4 +1,4 @@
-# 🎬 IMDb Sentiment Analysis Project
+# 🎬 Movie Reviewa Sentiment Analysis Project
 
 A comprehensive sentiment analysis application movie reviews using NLP and machine learning techniques. This project includes both the training notebook and an interactive Streamlit web application.
 
